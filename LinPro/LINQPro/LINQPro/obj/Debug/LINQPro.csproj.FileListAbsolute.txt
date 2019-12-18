@@ -1,0 +1,7 @@
+C:\Users\vanethk\AvdProgam\AvdProHW\LinPro\LINQPro\LINQPro\bin\Debug\LINQPro.exe.config
+C:\Users\vanethk\AvdProgam\AvdProHW\LinPro\LINQPro\LINQPro\bin\Debug\LINQPro.exe
+C:\Users\vanethk\AvdProgam\AvdProHW\LinPro\LINQPro\LINQPro\bin\Debug\LINQPro.pdb
+C:\Users\vanethk\AvdProgam\AvdProHW\LinPro\LINQPro\LINQPro\obj\Debug\LINQPro.csprojAssemblyReference.cache
+C:\Users\vanethk\AvdProgam\AvdProHW\LinPro\LINQPro\LINQPro\obj\Debug\LINQPro.csproj.CoreCompileInputs.cache
+C:\Users\vanethk\AvdProgam\AvdProHW\LinPro\LINQPro\LINQPro\obj\Debug\LINQPro.exe
+C:\Users\vanethk\AvdProgam\AvdProHW\LinPro\LINQPro\LINQPro\obj\Debug\LINQPro.pdb
